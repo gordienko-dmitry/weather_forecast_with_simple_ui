@@ -40,5 +40,7 @@ That's it.
 **P.S.** If we have problem with get query we can see error message instead forecast visualization.  
  
  #### Video demonstration  
+ Sorry, but for watch this video you need download it from media folder  
+ 
  
 [![Demonstration video](media/video_screen.png)](media/demonstration.mp4)
